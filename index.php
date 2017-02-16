@@ -1,5 +1,5 @@
 <?php
-include_once '../dbconnect.php';   //use your connectivity file here
+include_once 'dbconnect.php';   //use your connectivity file here
 
    
    if(isset($_POST['btn']))
